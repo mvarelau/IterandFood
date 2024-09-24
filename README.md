@@ -162,40 +162,6 @@ if __name__=="__main__":
     Price= Order.apply_discounts(Order,Second_Order)
     print(Price)
 
-
-
-
-
-
-
-    
-
-
-
-    
-
-    
-        
-
-
-        
-
-    
-
-        
-        
-        
-        
-        
-            
-
-
-
-
-
-
-
-
 # Implementación de la clase PedidoIterable para permitir iteraciones sobre los pedidos
 if __name__ == "__main__":
     # Creamos un ejemplo de varios pedidos
